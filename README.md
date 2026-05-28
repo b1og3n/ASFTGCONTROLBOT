@@ -3,7 +3,6 @@
 Зависимости:<code>pip install -r requirements.txt</code>
 
 Настройка <code>.env</code>:
-
 <code>API_TOKEN = "" #Токен бота Телеграм
 ADMIN_ID = 0 # Ваш Тг Ид
 ASF_URL = "http://127.0.0.1:1242/Api/ASF"
