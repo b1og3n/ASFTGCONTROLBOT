@@ -1,15 +1,4 @@
-ASF Telegram Control Bot
-
-Многофункциональная Telegram-панель управления для ArchiSteamFarm с поддержкой:
-
-управления ботами
-активации Steam ключей
-2FA
-inventory
-idle/farming
-ASF console
-confirmations
-мониторинга аккаунтов
+ASFTGCONTROLBOT - многофункциональная Telegram-панель управления для ArchiSteamFarm
 
 Зависимости:<code>pip install -r requirements.txt</code>
 
